@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/googleapis/nodejs-secret-manager/compare/v3.0.0...v3.1.0) (2020-05-07)
+
+
+### Features
+
+* add Blunderbuss config ([#111](https://www.github.com/googleapis/nodejs-secret-manager/issues/111)) ([312543e](https://www.github.com/googleapis/nodejs-secret-manager/commit/312543e03b19bb9b77ae3dcbccadadc63b5cf66f))
+
+
+### Bug Fixes
+
+* regen protos and tests, formatting ([#115](https://www.github.com/googleapis/nodejs-secret-manager/issues/115)) ([85539e3](https://www.github.com/googleapis/nodejs-secret-manager/commit/85539e3b6b0d00dcf6e11f6e79b86f447b5bd185))
+* remove eslint, update gax, fix generated protos, run the generator ([#94](https://www.github.com/googleapis/nodejs-secret-manager/issues/94)) ([aa90072](https://www.github.com/googleapis/nodejs-secret-manager/commit/aa900721808f45a29091aca61052c08d352a8bc2))
+* synth.py clean up for multiple version ([#116](https://www.github.com/googleapis/nodejs-secret-manager/issues/116)) ([783524d](https://www.github.com/googleapis/nodejs-secret-manager/commit/783524d5925029f130a8787f02319d14a0a8dc59))
+
 ## [3.0.0](https://www.github.com/googleapis/nodejs-secret-manager/compare/v2.1.0...v3.0.0) (2020-04-10)
 
 
